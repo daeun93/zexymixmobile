@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../zexymix/font"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "zexymix-mobile"
+	}
+}
